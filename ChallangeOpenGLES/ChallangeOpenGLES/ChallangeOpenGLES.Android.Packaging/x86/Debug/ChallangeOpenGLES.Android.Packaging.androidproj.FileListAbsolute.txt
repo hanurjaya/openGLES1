@@ -1,0 +1,7 @@
+D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\ChallangeOpenGLES\ChallangeOpenGLES.Android.Packaging\x86\Debug\ChallangeOpenGLES.Android.Packaging.androidprojAssemblyReference.cache
+D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\ChallangeOpenGLES\ChallangeOpenGLES.Android.Packaging\x86\Debug\ChallangeOpenGLES.apk.recipe
+D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\ChallangeOpenGLES\ChallangeOpenGLES.Android.Packaging\x86\Debug\ChallangeOpenGLES.apk.recipe.merged
+D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\ChallangeOpenGLES\ChallangeOpenGLES.Android.Packaging\x86\Debug\Package\libs\x86\libChallangeOpenGLES.so
+D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\ChallangeOpenGLES\ChallangeOpenGLES.Android.Packaging\x86\Debug\FileStringReplace.incremental
+D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\ChallangeOpenGLES\ChallangeOpenGLES.Android.Packaging\x86\Debug\ChallangeOpenGLES.apk
+D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\ChallangeOpenGLES\ChallangeOpenGLES.Android.Packaging\x86\Debug\ChallangeOpenGLES.lastsuccessfuldeploy

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths />
+  <AndroidLibPaths />
+  <OObjPaths />
+  <Configuration />
+  <Platform />
+  <AndroidArchitecture />
+  <!--links to other recipe files-->
+  <RecipeFiles>D:\Pembelajaran\OpenGL\openGLES\ChallangeOpenGLES\x86\Debug\libChallangeOpenGLES.so.recipe</RecipeFiles>
+</project>

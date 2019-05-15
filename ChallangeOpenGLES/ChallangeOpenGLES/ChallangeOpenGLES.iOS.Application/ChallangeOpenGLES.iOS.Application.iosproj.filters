@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ChallangeOpenGLES.iOS">
+      <UniqueIdentifier>{51975d46-fbc4-4c3c-acdf-278aee3e25d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChallangeOpenGLES.iOS\Images.xcassets">
+      <UniqueIdentifier>{96b24fb8-92a8-4535-843b-3c84051d1ecc}</UniqueIdentifier>
+      <Extensions>ChallangeOpenGLES.iOS\Images.xcassets\*</Extensions>
+    </Filter>
+    <Filter Include="ChallangeOpenGLES.iOS\Images.xcassets\AppIcon.appiconset">
+      <UniqueIdentifier>{19c5b1d8-e326-4648-9d6d-556127facf99}</UniqueIdentifier>
+      <Extensions>ChallangeOpenGLES.iOS\Images.xcassets\AppIcon.appiconset\*</Extensions>
+    </Filter>
+    <Filter Include="ChallangeOpenGLES.iOS\Supporting Files">
+      <UniqueIdentifier>{4b545f63-cace-46cd-a6be-e23b9fdeb912}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChallangeOpenGLES.iOS\AppDelegate.m">
+      <Filter>ChallangeOpenGLES.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="ChallangeOpenGLES.iOS\GameViewController.m">
+      <Filter>ChallangeOpenGLES.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="ChallangeOpenGLES.iOS\main.m">
+      <Filter>ChallangeOpenGLES.iOS\Supporting Files</Filter>
+    </ClCompile>
+    <ClInclude Include="ChallangeOpenGLES.iOS\AppDelegate.h">
+      <Filter>ChallangeOpenGLES.iOS</Filter>
+    </ClInclude>
+    <ClInclude Include="ChallangeOpenGLES.iOS\GameViewController.h">
+      <Filter>ChallangeOpenGLES.iOS</Filter>
+    </ClInclude>
+    <Content Include="ChallangeOpenGLES.iOS\Base.lproj\Main.storyboard">
+      <Filter>ChallangeOpenGLES.iOS</Filter>
+    </Content>
+    <Content Include="ChallangeOpenGLES.iOS\Images.xcassets\AppIcon.appiconset\Contents.json">
+      <Filter>ChallangeOpenGLES.iOS\Images.xcassets\AppIcon.appiconset</Filter>
+    </Content>
+    <InfoPlist Include="ChallangeOpenGLES.iOS\Info.plist">
+      <Filter>ChallangeOpenGLES.iOS\Supporting Files</Filter>
+    </InfoPlist>
+  </ItemGroup>
+</Project>

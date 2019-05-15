@@ -1,0 +1,1 @@
+$(AntDependencies)=;$(ApplicationId)=applicationId = "";$(ConfigurationType)=application;$(AarDependencies)=;$(AarDependenciesSettings)=;$(ApplicationName)=ChallangeOpenGLES;$(AndroidAppLibName)=ChallangeOpenGLES;$(AndroidBuildToolsVersion)=25.0.3;$(AndroidAPILevelNumber)=21;$(androidapilevel)=android-21;$(projectname)=ChallangeOpenGLES.Android.Packaging;
